@@ -1,0 +1,3 @@
+name: pheonix
+runtime: nodejs
+description: Application demonstrating some basics with pulumi.
